@@ -9,20 +9,20 @@
 
 امکانات نرم افزار
 - :ok: Language Farsi
-- :ok: Add Multi Server !
-- :ok: Add Multi User !
-- :ok: Check Online User Per Server !
-- :ok: User Count Limitation !
-- :ok: Manual Kill User !
-- :ok: Manual Disable User !
+- :ok: Add Multi Server
+- :ok: Add Multi User
+- :ok: Check Online User Per Server
+- :ok: User Count Limitation
+- :ok: Manual Kill User
+- :ok: Manual Disable User
 - :ok: Auto Disable User
-- :ok: Auto Kill User !
-- [ ] User Traffic Limitaion !
-- [ ] Add User Bulk !
-- [ ] ReSeler Panel
+- :ok: Auto Kill User
 - :ok: RestApi
-- [ ] Telegram Bot
-- [ ] Database Backup / Restore
+- [ ] User Traffic Limitaion
+- [ ] Add User Bulk !
+- [ ] ReSeler Panel !
+- [ ] Telegram Bot !
+- [ ] Database Backup / Restore !
 ---
 
 تیم توسعه TahlilDevOps برای و مدیریت هرچه بهتر کاربران SSH سرورها 
@@ -69,17 +69,18 @@ sudo apt-get install -y dotnet-runtime-7.0
 محیط نرم افزار :
 
 
-![image](https://github.com/ShahramDevOps/SshUserManager/assets/116191471/b866f6d3-d429-49ae-81a8-58c7a2b9c74b)
+![image](https://github.com/ShahramDevOps/SshUserManager/assets/116191471/40fac19a-7795-4aed-b751-3e8d88881310)
 
 ---
 
-سرویس Api برای دسترسی به تمام api ها میتوانید به آدرس پنل 
+سرویس Api 
+برای دسترسی به تمام api ها میتوانید به آدرس پنل 
 /swagger
 را اضافه کنید
-....
+
 ```
 https://your-Domain-Or-Ip/swagger
 ```
 
+![image](https://github.com/ShahramDevOps/SshUserManager/assets/116191471/ff5cbb19-6375-4815-8095-e949b8a51d14)
 
-![image](https://github.com/ShahramDevOps/SshUserManager/assets/116191471/7977bf90-48d7-46a6-9e42-1970f25e7437)
