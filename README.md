@@ -69,7 +69,7 @@ sudo apt-get install -y dotnet-runtime-7.0
 محیط نرم افزار :
 
 
-![image](https://github.com/ShahramDevOps/SshUserManager/assets/116191471/40fac19a-7795-4aed-b751-3e8d88881310)
+![238208712-40fac19a-7795-4aed-b751-3e8d888813100000](https://github.com/azureDevOpsTeam/SshUserManager/assets/134445691/99127086-42c0-4dfe-85e2-386dc723e202)
 
 ---
 
@@ -82,5 +82,6 @@ sudo apt-get install -y dotnet-runtime-7.0
 https://your-Domain-Or-Ip/swagger
 ```
 
-![image](https://github.com/ShahramDevOps/SshUserManager/assets/116191471/ff5cbb19-6375-4815-8095-e949b8a51d14)
+![238208752-ff5cbb19-6375-4815-8095-e949b8a51d1411111](https://github.com/azureDevOpsTeam/SshUserManager/assets/134445691/886b38f4-c0a3-4b81-929b-919beedc5fa6)
+
 
